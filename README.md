@@ -1,37 +1,49 @@
-![Deskripsi Gambar](https://www.google.com/url?sa=i&url=https%3A%2F%2Flaravel-news.com%2Flaravel-breeze-intertiajs&psig=AOvVaw2WFnwrKJT-K9RsDMp_b059&ust=1709577577302000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiE8-7e2IQDFQAAAAAdAAAAABAE)
+# Laravel 10 - Breeze
+
+![Tampilan Aplikasi](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*co4IW-LcKUO773uQaXvM8A.png)
 
 
+## Running Locally
 
-## Run Locally
+### Steps
 
-## Teach stack
-• Laravel 10 Breeze
-• Tailwindcss
+1. Clone the project:
 
-Clone the project
+    ```bash
+    git clone https://github.com/Oecophyllaa/rentdrive.git
+    ```
 
-```bash
-  git clone https://github.com/Oecophyllaa/rentdrive.git
-```
-Install dependencies
+2. Install dependencies:
 
-```bash
-php artisan breeze:install
-php artisan migrate
-```
+    ```bash
+    composer require laravel/breeze --dev
+    ```
 
-Configure your database inside the .env file
+3. Configure the database in the .env file:
 
-```bash
-  DB_DATABASE=laravel10-breeze
-  DB_USERNAME=root
-  DB_PASSWORD=secret
-```
+    ```env
+    DB_DATABASE=laravel10-breeze
+    DB_USERNAME=root
+    DB_PASSWORD=secret
+    ```
 
-Start the server
+4. Run database migrations:
 
-```bash
-  php artisan serve
-```
+    ```bash
+    php artisan migrate
+    ```
+
+5. Start the server:
+
+    ```bash
+    php artisan serve
+    ```
+
+### Technology Stack
+
+- Laravel 10 Breeze
+- Tailwind CSS
+
+
 
 
