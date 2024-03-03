@@ -10,7 +10,7 @@
 1. Clone the project:
 
     ```bash
-    git clone https://github.com/Oecophyllaa/rentdrive.git
+    git clone https://github.com/Sumandosilalahi2929/Laravel-10-Beereze.git
     ```
 
 2. Install dependencies:
