@@ -1,10 +1,12 @@
 ![Deskripsi Gambar](https://www.google.com/url?sa=i&url=https%3A%2F%2Flaravel-news.com%2Flaravel-breeze-intertiajs&psig=AOvVaw2WFnwrKJT-K9RsDMp_b059&ust=1709577577302000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiE8-7e2IQDFQAAAAAdAAAAABAE)
 
-##Tech Stack
-• Laravel 10 Breeze
-• Tailwindcss
+
 
 ## Run Locally
+
+## Teach stack
+• Laravel 10 Breeze
+• Tailwindcss
 
 Clone the project
 
