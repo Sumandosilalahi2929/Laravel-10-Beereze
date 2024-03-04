@@ -16,7 +16,7 @@
 2. Install dependencies:
 
     ```bash
-    composer require laravel/breeze --dev
+    composer install
     ```
 
 3. Configure the database in the .env file:
